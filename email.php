@@ -1,0 +1,1 @@
+echo "Featured email";

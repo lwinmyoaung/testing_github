@@ -7,4 +7,8 @@ echo "fifth line"
 echo "sixth line from online"
 echo "sixth line from cli"
 echo "seventh line from online"
+<<<<<<< Updated upstream
 echo "eight line from online"
+=======
+echo "eight line from cli"
+>>>>>>> Stashed changes
